@@ -1,0 +1,11 @@
+Generation de phrase
+Permiere strategie
+  -Prendre des squellette de phrase deja formée et de changée les groupes de mots en fonction d'un groupe lexicale.
+  par exemple
+  phrase de reference:Chaque invitées prends un bus = Chaque gn1 v1 gn2
+    gn1 = une fleure, une voiture...
+    v1 = prends, marche ...
+    gn2 =   
+Deuxieme strategie
+https://www.aclweb.org/anthology/C73-2014.pdf
+  
